@@ -7,4 +7,4 @@ var soma = num1 + num2
 
 //exibir  a resposta!
 alert ("o resultado da soma é: " + soma)
-document.writer(soma)
+document.write(soma)
