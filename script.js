@@ -1,6 +1,6 @@
 
-let num1 = parceInt(prompt("digite o primeiro numero!"))
-let num2 = parceInt(prompt("digite o segundo numero")) 
+let num1 = parseInt(prompt("digite o primeiro numero!"))
+let num2 = parseInt(prompt("digite o segundo numero")) 
 
 //operação de soma!!
 var soma = num1 + num2
