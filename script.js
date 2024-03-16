@@ -14,3 +14,6 @@ document.write(soma)
 var subtr = num1 - num2
 alert ("o resultado da subtração é:"+ " "+ subtr)
 document.write("<br>A subtração entre os numeros foi :"+ " "+ subtr)
+
+
+//maniplação class.
