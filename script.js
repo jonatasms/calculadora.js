@@ -20,5 +20,5 @@ function calculator(tipo, valor){
         document.getElementById('resultado').value += valor;
     }
     }
-    console.log(tipo, valor)
+    
 }
